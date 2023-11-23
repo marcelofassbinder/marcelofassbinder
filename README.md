@@ -1,4 +1,11 @@
-Hey, I'm Marcelo Fassbinder 👋
+# Hey, I'm Marcelo Fassbinder! 👋
+
+- 🌎 Originally from Brazil, currently living in Porto, Portugal.
+- 📚 Studying at 42 Porto Common Core, exploring the depths of C and C++.
+- ⚙️ Focused on honing my programming skills and diving into software development.
+- 🏋️‍♂️ Interested in a variety of sports, always up for a new challenge.
+
+Feel free to explore my repositories and projects. My user on Intra and Slack is "mfassbin". Let's connect and learn together! 🚀
 
 <div align="center">
 
