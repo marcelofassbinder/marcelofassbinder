@@ -5,7 +5,7 @@
 - ⚙️ Focused on honing my programming skills and diving into software development.
 - 🏋️‍♂️ Interested in a variety of sports, always up for a new challenge.
 
-Feel free to explore my repositories and projects. My user on Intra and Slack is "mfassbin". Let's connect and learn together! 🚀
+Feel free to explore my repositories and projects. My user on Intra and Slack is `mfassbin`. Let's connect and learn together! 🚀
 
 <div align="center">
 
