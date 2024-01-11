@@ -6,6 +6,11 @@
 - 🏋️‍♂️ Interested in a variety of sports, always up for a new challenge.
 
 Feel free to explore my repositories and projects. My user on Intra and Slack is `mfassbin`. Let's connect and learn together! 🚀
+# 42 Common Core Projects
+| RANK 0 | RANK 1 | RANK 2 |
+| ------ | ------ | ------ | 
+| [![LIBFT](https://github.com/marcelofassbinder/42_project_badges/blob/main/badges/libftn.png)](https://github.com/marcelofassbinder/42_LIBFT) | [![FT_PRINTF](https://github.com/marcelofassbinder/42_project_badges/blob/main/badges/ft_printfn.png)](https://github.com/marcelofassbinder/42_FT_PRINTF) | [![PUSH_SWAP](https://github.com/marcelofassbinder/42_project_badges/blob/main/badges/push_swapn.png)](https://github.com/marcelofassbinder/42_PUSH_SWAP) | 
+| | [![GET_NEXT_LINE](https://github.com/marcelofassbinder/42_project_badges/blob/main/badges/get_next_linen.png)](https://github.com/marcelofassbinder/42_GET_NEXT_LINE)| 
 
 <div align="center">
 
